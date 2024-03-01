@@ -1,0 +1,7 @@
+setup.py
+HID_EMULATOR/__init__.py
+HID_EMULATOR/hid_emulator.py
+hid_emulator.egg-info/PKG-INFO
+hid_emulator.egg-info/SOURCES.txt
+hid_emulator.egg-info/dependency_links.txt
+hid_emulator.egg-info/top_level.txt
